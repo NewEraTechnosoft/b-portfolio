@@ -1,0 +1,20 @@
+.carousel {
+    cursor: grab;
+    overflow: hidden;
+}
+
+.inner-carousel {
+    display: flex;
+}
+
+.tebFlex{
+    display: flex;
+    gap: 20px;
+    width: 100%;
+    justify-content: center;
+    align-content: center;
+}
+
+.tabtext{
+    color: grey !important;
+}
